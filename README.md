@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">An aspiring Software Engineer from Colombo, Sri Lanka. I am looking forward to improve my knowledge and my experience in MERN stack. I enjoy programming because it gives me a sense of building something which is useful. Although it may be frustrating at times I find the journey very fulfilling.</h3>
+<h3 align="center">An aspiring Software Engineer from Colombo, Sri Lanka. I am looking forward to improve my knowledge and my experience in MERN stack. I enjoy programming because it gives me a sense of building something useful. Although it may be frustrating at times I find the journey very fulfilling.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathannithi&label=Profile%20views&color=0e75b6&style=flat" alt="jonathannithi" /> </p>
 
